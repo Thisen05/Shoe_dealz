@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862949506324",
+    "project_id": "shoedealz-47938",
+    "storage_bucket": "shoedealz-47938.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862949506324:android:9b46148379948e777c9601",
+        "android_client_info": {
+          "package_name": "com.example.shoedealz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7NoYUL34QGwEuZHA_mP4n_bZC_FSvBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
